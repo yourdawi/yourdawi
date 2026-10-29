@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hey, I'm Dawi
 
-<!--
-**yourdawi/yourdawi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build tools to solve problems (big or small) that I encounter in my own life.
 
-Here are some ideas to get you started:
+If something could be easier, more useful, or better automated, I'll probably try to build a solution for it.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 My Stats
+
+<div align="center">
+
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=yourdawi&show_icons=true&theme=tokyonight&hide_border=true" alt="Dawi's GitHub Stats" />
+</div>
+
+## 💻 My Languages
+
+<div align="center">
+
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=yourdawi&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+
+</div>
+
+## 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=yourdawi&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
+
+</div>
